@@ -253,6 +253,13 @@ GamePlay Scene (restart)
 
 ---
 
+##  Project Repository
+
+You can explore the full source code, project structure:
+
+🔗 [https://github.com/Avi0395/SnakesAndBlocks]
+
+
 ## Support & Contact
 
 **Developer**: Avinash Patil  
